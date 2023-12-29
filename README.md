@@ -12,7 +12,7 @@
 
 ### 邀请链接
 
-https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
+[https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4](https://app.getgrass.io/register/?referralCode=74b0B06Mx2tEnqe)
 
 ### user_id获取方法
 
